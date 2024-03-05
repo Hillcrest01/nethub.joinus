@@ -1,0 +1,4 @@
+mysql_host: 'localhost'
+mysql_user: 'root'
+mysql_password: 'Kulundeng.Jamach.1'
+mysql_db: 'nethub'
